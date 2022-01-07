@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Resepku</string>
+    <string name="daftar_disini">Daftar disini</string>
+    <string name="nama">Nama</string>
+    <string name="nomor_hp">Nomor HP</string>
+    <string name="password">Password</string>
+    <string name="konfirmasi_password">Konfirmasi password</string>
+    <string name="username">Username</string>
+    <string name="daftar">Daftar</string>
+    <string name="saya_menyetujui_t_c">Saya menyetujui syarat dan ketentuan</string>
+</resources>
